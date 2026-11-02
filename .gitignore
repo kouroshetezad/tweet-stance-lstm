@@ -1,0 +1,11 @@
+# Data
+*.csv
+data/
+content/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
