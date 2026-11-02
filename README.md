@@ -43,5 +43,5 @@ Data files (`raw_train.csv`, `raw_val.csv`, `raw_test.csv`) are expected in a `c
 ## Run
 
 ```bash
-python project3.py
+python tweet-stance-classification.py
 ```
